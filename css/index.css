@@ -245,6 +245,10 @@ nav {
   align-items: flex-end;
 }
 
+.nav-link a {
+  text-decoration: none;
+}
+
 .image-container {
   margin-bottom: 1.5rem;
 }
